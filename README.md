@@ -16,3 +16,5 @@ Or, simple enter this link into your URL :
     - lifetime kills
     - total damage by legend
     - season 4 wins by account
+- displays percentile ranking for that counsel
+    - if empty, i.e. (%), then the information could not be pulled from the Tracker-network api
